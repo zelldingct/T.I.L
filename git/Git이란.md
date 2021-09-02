@@ -132,4 +132,4 @@ git hub같은 것을 Remote repository라고 한다.
 
 **git pull origin master**
 
--m
+-![pexels-eberhard-grossgasteiger-443446](images/Git%EC%9D%B4%EB%9E%80/pexels-eberhard-grossgasteiger-443446.jpg)
