@@ -4,8 +4,6 @@
 
 git != github
 
-git은 분산
-
 git 설치
 
 vscode 설치
@@ -114,12 +112,24 @@ code . +> VSC 바로 실행됨 단, 해당 위치에 있을때
 
 BasicCar.py 수정
 
-git diff {} {}
+**git diff {} {}**
 
 > commit serial의 앞에 4자리만 입력해도 됨!
 
-git log
+**git log**
 
 git hub같은 것을 Remote repository라고 한다.
 
 집에서 그냥 쓰는 것은 Local Repository이다.
+
+**git remote add origin 주소**
+
+**git push -u origin master**
+
+**git clone {remote_repo}**
+
+**git push origin master**
+
+**git pull origin master**
+
+-m
